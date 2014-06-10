@@ -1,12 +1,12 @@
 {
   "version": "0.0.0",
   "private": true,
-  "name": "angular-phonecat",
-  "description": "A tutorial application for AngularJS",
-  "repository": "https://github.com/angular/angular-phonecat",
+  "name": "angular-chem",
+  "description": "A chemistry app built using AngularJS",
+  "repository": "https://github.com/ansonwhan/angular-chem",
   "license": "MIT",
   "devDependencies": {
-    "karma": "~0.10",
+    "karma": "~0.12",
     "protractor": "~0.20.1",
     "http-server": "^0.6.1",
     "bower": "^1.3.1",
